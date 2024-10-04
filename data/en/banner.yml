@@ -2,6 +2,7 @@
 banner:
   enable : true
   # bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image_webp : "images/backgrounds/JORGEITALY2.webp"
   bg_image : "images/backgrounds/JORGEITALY2.png"
   bg_logo : "images/logo.gif"
   icon : "" # themify icon pack : https://themify.me/themify-icons
