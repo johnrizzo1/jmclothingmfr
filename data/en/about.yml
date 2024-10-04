@@ -4,25 +4,37 @@ about:
   title : About Us
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : Retail Clothing
+    bg_image_webp : "images/about/retail_clothing.webp"
+    bg_image : "images/about/retail_clothing.gif"
+    # title : Retail Clothing
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
   - icon : ti-cut # themify icon pack : https://themify.me/themify-icons
-    title : Custom Dress Shirts
+    bg_image_webp : "images/about/custom_dress_shirts.webp"
+    bg_image : "images/about/custom_dress_shirts.gif"
+    # title : Custom Dress Shirts
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    # title : Sample Making
+    bg_image_webp : "images/about/sample_making.webp"
+    bg_image : "images/about/sample_making.gif"
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    bg_image_webp : "images/about/consulting.webp"
+    bg_image : "images/about/consulting.gif"
+    # title : Consulting
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    # title : Uniforms
+    bg_image_webp : "images/about/uniforms.webp"
+    bg_image : "images/about/uniforms.gif"
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : Master Tailor
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : Consulting
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : Sample Making
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : Uniforms
+    bg_image_webp : "images/about/master_tailor.webp"
+    bg_image : "images/about/master_tailor.gif"
+    # title : Master Tailor
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.

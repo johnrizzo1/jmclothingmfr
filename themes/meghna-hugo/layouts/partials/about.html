@@ -20,9 +20,12 @@
 			{{"<!-- About item -->" | safeHTML}}
 			<div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
 				<div class="block">
-					<div class="icon-box">
-						{{with .icon}}<i class="{{ . }}"></i>{{ end }}
-					</div>
+					{{/*  <div class="icon-box">  */}}
+						{{/*  {{with .icon}}<i class="{{ . }}"></i>{{ end }}  */}}
+	          <img src="{{ .bg_image_webp | absURL }}"
+                 {{/*  style="display: none;"  */}}
+                 onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'">
+					{{/*  </div>  */}}
 					{{"<!-- Express About Yourself -->" | safeHTML}}
 					<div class="content text-center">
 						<h3>{{ .title }}</h3>

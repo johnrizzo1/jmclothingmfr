@@ -1,6 +1,6 @@
 #################################### portfolio ###############################
 portfolio:
-  enable : true
+  enable : false
   title : Our Works
   portfolio_item :
     # portfolio item loop
@@ -10,7 +10,7 @@ portfolio:
       categories : ["design"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "https://themefisher.com"
-      
+
     # portfolio item loop
     - name : Sound system
       image : images/portfolio/portfolio-2.jpg
@@ -18,7 +18,7 @@ portfolio:
       categories : ["development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : ""
-      
+
     # portfolio item loop
     - name : Clock Product
       image : images/portfolio/portfolio-3.jpg
@@ -26,7 +26,7 @@ portfolio:
       categories : ["design", "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
+
     # portfolio item loop
     - name : Bottol Label
       image : images/portfolio/portfolio-4.jpg
@@ -34,7 +34,7 @@ portfolio:
       categories : ["photography", "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
+
     # portfolio item loop
     - name : Shopping Bag
       image : images/portfolio/portfolio-5.jpg
@@ -42,7 +42,7 @@ portfolio:
       categories : ["design"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
+
     # portfolio item loop
     - name : Tag Design
       image : images/portfolio/portfolio-6.jpg
@@ -50,7 +50,7 @@ portfolio:
       categories : ["photography"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
+
     # portfolio item loop
     - name : Business Card
       image : images/portfolio/portfolio-7.jpg
@@ -58,7 +58,7 @@ portfolio:
       categories : ["development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
+
     # portfolio item loop
     - name : Stationary Design
       image : images/portfolio/portfolio-8.jpg
@@ -66,7 +66,7 @@ portfolio:
       categories : ["design", "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
+
     # portfolio item loop
     - name : Tag Design
       image : images/portfolio/portfolio-2.jpg

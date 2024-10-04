@@ -1,27 +1,29 @@
 ############################# feature ###################################
 feature:
-  enable : false
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
+  enable : true
+  image : images/about/sample_making_sewing.jpeg
+  image_webp : images/about/sample_making_sewing.webp
+  # image : images/about/about-business-man.jpg
+  # image_webp : images/about/about-business-man.webp
+  title : We’re a Full Service Clothing Manufacturer
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
   feature_item :
       # feature item loop
-    - title : SEO Optimized
+    - title : Design
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
       # feature item loop
-    - title : Easy Customization
+    - title : Sample Making
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
       # feature item loop
-    - title : SEO Optimized
+    - title : Production Planning
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
       # feature item loop
-    - title : Easy Customization
+    - title : Consulting
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
