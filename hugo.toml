@@ -191,19 +191,19 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/transparent_logo.png"
 # Meta data
 description = "Responsive Multipurpose Parallax Hugo Template"
 author = "Themefisher"
 # Google Analytics
-google_analytics_id = "" # Your ID
+google_analytics_id = "G-VJWXW3J0PH" # Your ID
 # post share
 post_share = true
 
 # preloader
 [params.preloader]
 enable = false
-preloader = "images/logo.png"
+preloader = "images/transparent_logo.png"
 
 # cookies
 [params.cookies]
