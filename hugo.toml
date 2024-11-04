@@ -104,20 +104,20 @@ name = "portfolio"
 url = "#portfolio"
 weight = 3
 
-[[Languages.en.menu.main]]
-name = "team"
-url = "#team"
-weight = 4
+# [[Languages.en.menu.main]]
+# name = "team"
+# url = "#team"
+# weight = 4
 
 # [[Languages.en.menu.main]]
 # name = "pricing"
 # url = "#pricing"
 # weight = 5
 
-[[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
+# [[Languages.en.menu.main]]
+# name = "blog"
+# url = "#blog"
+# weight = 6
 
 [[Languages.en.menu.main]]
 name = "contact"

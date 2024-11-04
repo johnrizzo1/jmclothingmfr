@@ -533,6 +533,11 @@ a:hover {
   margin-bottom: 20px;
 }
 
+.hero-area .block img {
+  width: 100%;
+  height: auto;
+}
+
 .hero-area-video .block .btn-main {
   margin-top: 20px;
 }

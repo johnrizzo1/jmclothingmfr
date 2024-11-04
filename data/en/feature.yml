@@ -1,29 +1,29 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/sample_making_sewing.jpeg
-  image_webp : images/about/sample_making_sewing.webp
+  image : images/about/teaching.jpg
+  image_webp : images/about/teaching.webp
   # image : images/about/about-business-man.jpg
   # image_webp : images/about/about-business-man.webp
   title : We’re a Full Service Clothing Manufacturer
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  content : "Our areas of expertise are the following"
   feature_item :
       # feature item loop
-    - title : Design
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-
-      # feature item loop
     - title : Sample Making
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-
-      # feature item loop
-    - title : Production Planning
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : I develop professional samples using various types of interlinings, trims and closures appropriate to tailored garments
 
       # feature item loop
     - title : Consulting
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : While working in the fashion industry I attended college and graduated as an Industrial Engineer. This professional knowledge gave me the ability to create, analyze and improve the methods of operation in the whole chain process of making high quality products at the factory level.
+
+      # feature item loop
+    - title : Uniforms
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : I incorporate trimmings and embroideries to achieve perfect harmony in uniforms.  Using professional industrial techniques, I develop cutting and sewing methods to achieve any quantity of production.
+
+      # feature item loop
+    - title : Master Tailor
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : I have 50 years of experience in the fashion industry that started making men’s custom made suits. I have worked making pants, jackets and shirts for the higher end of the menswear market allowing me to stay current with construction techniques.
