@@ -229,11 +229,11 @@ expire_days = 2
 
 [[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.youtube.com/@JorgeMoralesMfr"
 
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/in/jmclothingmfr"
 
 # [[params.social]]
 # icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons

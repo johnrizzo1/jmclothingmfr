@@ -12,4 +12,4 @@ banner:
   button:
     enable : true
     label : "Explore Us"
-    link : "#about"
+    link : "#feature"

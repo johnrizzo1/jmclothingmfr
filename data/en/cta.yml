@@ -4,9 +4,9 @@ cta:
   bg_image : "images/suit-1971670.jpg"
   # bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/suit-1971670.webp"
-  title : "Great Design & Incredible Craftsmanship"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
-  button:
-    enable : true
-    label : "Start a project with us"
-    link : "#contact"
+  # title : "Great Design & Incredible Craftsmanship"
+  # content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  # button:
+  #   enable : true
+  #   label : "Start a project with us"
+  #   link : "#contact"

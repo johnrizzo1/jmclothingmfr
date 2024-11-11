@@ -16,8 +16,8 @@ contact:
     # - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
     #   info : "Fax: +880-31-000-000"
 
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: jmclothingmfr@jmclothingmfr.com"
+    # - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      # info : "Email: jmclothingmfr@jmclothingmfr.com"
 
 
   # Contact form
