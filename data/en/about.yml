@@ -3,17 +3,6 @@ about:
   enable : false
   title : About Us
   about_item :
-  # - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-  #   bg_image_webp : "images/about/retail_clothing.webp"
-  #   bg_image : "images/about/retail_clothing.gif"
-    # title : Retail Clothing
-    # content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  # - icon : ti-cut # themify icon pack : https://themify.me/themify-icons
-  #   bg_image_webp : "images/about/custom_dress_shirts.webp"
-  #   bg_image : "images/about/custom_dress_shirts.gif"
-    # title : Custom Dress Shirts
-    # content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     # title : Sample Making
