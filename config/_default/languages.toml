@@ -1,0 +1,26 @@
+################################### English language #####################################
+[en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+[en.params]
+home = "Home"
+copyright = "Copyright &copy; 2025 All Rights Reserved"
+
+
+
+################################### French language #####################################
+[fr]
+languageName = "Fr"
+languageCode = "fr-fr"
+contentDir = "content/french"
+weight = 2
+[fr.params]
+home = "Accueil"
+copyright = "Copyright &copy; 2025 All Rights Reserved"
+
+
+
+
+

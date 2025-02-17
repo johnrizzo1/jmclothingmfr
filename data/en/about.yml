@@ -3,27 +3,14 @@ about:
   enable : false
   title : About Us
   about_item :
-
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    # title : Sample Making
-    bg_image_webp : "images/about/sample_making.webp"
-    bg_image : "images/about/sample_making.gif"
-    # content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    bg_image_webp : "images/about/consulting.webp"
-    bg_image : "images/about/consulting.gif"
-    # title : Consulting
-    # content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    # title : Uniforms
-    bg_image_webp : "images/about/uniforms.webp"
-    bg_image : "images/about/uniforms.gif"
-    # content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    bg_image_webp : "images/about/master_tailor.webp"
-    bg_image : "images/about/master_tailor.gif"
-    # title : Master Tailor
-    # content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : We're Creative
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : We're Professional
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : We're Genius
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
