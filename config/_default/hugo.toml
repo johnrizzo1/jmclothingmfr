@@ -157,7 +157,7 @@ contentDir = "content/english"
 [Languages.en.params]
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2025 All Rights Reserved"
+copyright = "Copyright &copy; 2026 All Rights Reserved"
 
 ################################ France Language ########################
 [Languages.fr]

@@ -7,7 +7,6 @@
       "br",
       "button",
       "div",
-      "em",
       "figcaption",
       "figure",
       "footer",
@@ -30,10 +29,8 @@
       "nav",
       "p",
       "path",
-      "picture",
       "script",
       "section",
-      "source",
       "span",
       "svg",
       "textarea",
@@ -130,7 +127,6 @@
       "resp-sharing-button__icon--solid",
       "resp-sharing-button__link",
       "rounded-0",
-      "rounded-circle",
       "row",
       "section",
       "section-bg",
@@ -141,13 +137,11 @@
       "sticky-top",
       "text-center",
       "ti-announcement",
-      "ti-facebook",
       "ti-github",
       "ti-linkedin",
       "ti-location-pin",
       "ti-panel",
       "ti-stats-up",
-      "ti-twitter-alt",
       "ti-world",
       "ti-youtube",
       "title",
@@ -174,8 +168,7 @@
       "name",
       "navigation",
       "sleeves-preparation-and-join-to-body",
-      "subject",
-      "the-following-video-shows-the-construction-of-a-shirt-collar-with-plastic-stay"
+      "subject"
     ]
   }
 }
