@@ -31,24 +31,24 @@ feature:
   image : images/about/teaching.jpg
   image_webp : images/about/teaching.webp
   title : We’re a Full Service Clothing Manufacturer
-  content : "Our areas of expertise are the following"
+  content : Focused on helping design, develop and manufacture clothing items such as samples, uniforms or master tailoring pieces.
   feature_item :
       # feature item loop
     - title : Sample Making
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : I develop professional samples using various types of interlinings, trims and closures appropriate to tailored garments
+      content : We develop impeccably crafted garment samples, selecting premium interlinings, trims, and closures that enhance the structure, elegance, and refinement of tailored pieces.
 
       # feature item loop
     - title : Consulting
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : While working in the fashion industry I attended college and graduated as an Industrial Engineer. This professional knowledge gave me the ability to create, analyze and improve the methods of operation in the whole chain process of making high quality products at the factory level.
+      content : With over 50 years of manufacturing expertise, we specialize in transforming designs into scalable production. Our team partners with you to refine your product for mass manufacturing, develop precise grading, and equip factories with the technical guidance and resources needed to execute efficiently. In the fast-paced fashion industry, we provide the experience and strategic support required to bring your vision to market with confidence.
 
       # feature item loop
     - title : Uniforms
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : I incorporate trimmings and embroideries to achieve perfect harmony in uniforms.  Using professional industrial techniques, I develop cutting and sewing methods to achieve any quantity of production.
+      content : Uniforms should embody elegance, versatility, and the very essence of a brand. At JM Clothing Manufacturing LLC, we are committed to designing uniforms that strike the perfect balance between style, comfort, and cost-efficiency—ensuring every piece not only looks exceptional but performs beautifully in everyday wear. Some of our customers are casinos, hotels or transportation companies.
 
       # feature item loop
     - title : Master Tailor
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : I have 50 years of experience in the fashion industry that started making men’s custom made suits. I have worked making pants, jackets and shirts for the higher end of the menswear market allowing me to stay current with construction techniques.
+      content : As master tailors, our role is to ensure that every suit, jacket, pair of pants, vest or dress you wear fits flawlessly, enhances your sense of elegance, and delivers exceptional comfort. We take great pride in our craftsmanship, applying the finest menswear techniques to create garments defined by quality, precision, and timeless sophistication.
