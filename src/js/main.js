@@ -116,6 +116,18 @@ function renderCTA() {
     return;
   }
 
+  // If CTA has no title or content, just show the background image
+  if (!cta.title && !cta.content) {
+    ctaSection.className = 'section call-to-action';
+    ctaSection.style.backgroundImage = `url("${cta.bg_image_webp}")`;
+    ctaSection.style.minHeight = '300px';
+    ctaSection.innerHTML = `
+      <img class="d-none" src="${cta.bg_image_webp}" 
+           onerror="this.onerror=null;this.parentElement.style.backgroundImage='url(${cta.bg_image})'">
+    `;
+    return;
+  }
+
   ctaSection.className = 'section call-to-action';
   ctaSection.style.backgroundImage = `url("${cta.bg_image_webp}")`;
   ctaSection.innerHTML = `
@@ -124,9 +136,9 @@ function renderCTA() {
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <h2>${cta.title}</h2>
-          <p>${cta.content}</p>
-          ${cta.button.enable ? `
+          ${cta.title ? `<h2>${cta.title}</h2>` : ''}
+          ${cta.content ? `<p>${cta.content}</p>` : ''}
+          ${cta.button && cta.button.enable ? `
             <a href="${cta.button.link}" class="btn btn-main">${cta.button.label}</a>
           ` : ''}
         </div>
