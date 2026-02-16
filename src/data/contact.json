@@ -7,7 +7,8 @@
     "contact_list": [
       {
         "icon": "ti-location-pin",
-        "info": "Bergen County, New Jersey"
+        "title": "Location",
+        "content": "Bergen County, New Jersey"
       }
     ],
     "contact_form": {
