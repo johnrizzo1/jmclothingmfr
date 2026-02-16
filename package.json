@@ -1,0 +1,17 @@
+{
+  "name": "jm-clothing-mfr",
+  "version": "1.0.0",
+  "description": "J. Morales Clothing Manufacturing L.L.C. Website",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.1"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "funfacts": {
+    "enable": false,
+    "bg_image": "images/backgrounds/bg-white-wall.jpg",
+    "bg_image_webp": "images/backgrounds/bg-white-wall.webp",
+    "counter_item": [
+      {
+        "title": "Happy Clients",
+        "icon": "ti-face-smile",
+        "count": "320"
+      },
+      {
+        "title": "Projects completed",
+        "icon": "ti-archive",
+        "count": "350"
+      },
+      {
+        "title": "Positive feedback",
+        "icon": "ti-thumb-up",
+        "count": "158"
+      },
+      {
+        "title": "Cups of Coffee",
+        "icon": "ti-gift",
+        "count": "250"
+      }
+    ]
+  }
+}

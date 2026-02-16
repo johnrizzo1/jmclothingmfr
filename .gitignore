@@ -1,5 +1,15 @@
 .direnv/
 .devenv/
 .vscode/
-public/
 resources/
+
+# Vite
+node_modules/
+dist/
+*.local
+
+# Keep public directory for Vite assets
+!public/
+
+# Hugo (no longer needed but keeping for reference)
+# public/

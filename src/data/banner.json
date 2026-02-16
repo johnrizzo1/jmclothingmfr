@@ -1,0 +1,17 @@
+{
+  "banner": {
+    "enable": true,
+    "bg_image_webp": "/images/backgrounds/JORGEITALY2.webp",
+    "bg_image": "/images/backgrounds/JORGEITALY2.png",
+    "bg_logo": "/images/logo.png",
+    "icon": "",
+    "title": "J. Morales",
+    "subtitle": "Clothing Manufacturing L.L.C.",
+    "content": "",
+    "button": {
+      "enable": true,
+      "label": "Explore Us",
+      "link": "#feature"
+    }
+  }
+}
