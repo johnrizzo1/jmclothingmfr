@@ -1,0 +1,38 @@
+{
+  "service": {
+    "enable": false,
+    "title": "Our Services",
+    "service_item": [
+      {
+        "name": "WordPress Theme",
+        "icon": "ti-world",
+        "content": "Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur."
+      },
+      {
+        "name": "Responsive Design",
+        "icon": "ti-layout",
+        "content": "Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur."
+      },
+      {
+        "name": "Media &amp; Advertisement",
+        "icon": "ti-blackboard",
+        "content": "Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur."
+      },
+      {
+        "name": "Graphic Design",
+        "icon": "ti-palette",
+        "content": "Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur."
+      },
+      {
+        "name": "Apps Development",
+        "icon": "ti-package",
+        "content": "Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur."
+      },
+      {
+        "name": "Networking",
+        "icon": "ti-pulse",
+        "content": "Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur."
+      }
+    ]
+  }
+}

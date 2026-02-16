@@ -1,0 +1,23 @@
+{
+  "about": {
+    "enable": false,
+    "title": "About Us",
+    "about_item": [
+      {
+        "icon": "ti-ruler-pencil",
+        "title": "We're Creative",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos."
+      },
+      {
+        "icon": "ti-cup",
+        "title": "We're Professional",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos."
+      },
+      {
+        "icon": "ti-thought",
+        "title": "We're Genius",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos."
+      }
+    ]
+  }
+}
